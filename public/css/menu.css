@@ -1,0 +1,89 @@
+.view {
+    background: url(../img/header11.jpg)no-repeat center center;
+    background-size: cover;
+
+}
+
+.navbar {
+    background-color: transparent;
+
+}
+
+.top-nav-collapse {
+    background-color: #2E2E2E;
+
+}
+
+@media only screen and (max-width: 768px) {
+    .navbar {
+        background-color: #4285F4;
+    }
+}
+
+html,
+body,
+header,
+.view {
+  height: 100%;
+}
+
+.fuente{
+  font-family: 'Roboto', sans-serif;
+  font-size: 35px;
+}
+.font{
+font-family: 'Alegreya Sans SC', sans-serif;
+  font-size: 75px;
+  color: white;
+  text-shadow: 2px 2px white, -2px -2px #616161 ;
+}
+
+  .font1{
+  font-family: 'Contrail One', cursive;
+  font-size: 30px;
+
+  /* font-size: 2vw; */
+ color: #e1f5fe     ;
+}
+.fontTotal{
+  font-family: 'Noto Sans KR', sans-serif;
+
+}
+.fontTitulos{
+  color: #1976d2;
+}
+.fontContactos{
+  font-family: 'Cuprum', sans-serif;
+  padding-top: 30px;
+  padding-bottom: 50px;
+}
+.l{
+  color: #1976d2 ;
+}
+.ll{
+  color: #0d47a1 ;
+}
+.lll{
+  color: #0d47a1 ;
+}
+.titull{
+font-family: 'Mada', sans-serif;
+  color: #1976d2   ;
+  font-size: 45px;
+}
+
+.marge{
+  padding-top: 50px;
+  font-family: 'Mada', sans-serif;
+  padding-bottom: 80px;
+}
+.espacioT{
+  padding-top: 15px;
+}
+.jj{
+  font-size: 17px;
+  font-family: 'Mada', sans-serif;
+}
+.j{
+  font-size: 20px;
+}
